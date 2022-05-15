@@ -9,3 +9,6 @@
 
 ![2jpg](https://user-images.githubusercontent.com/101035658/168073454-579abafc-cd4b-49d6-aaff-b8b1665c77f4.jpeg)
 
+## **Schematic Diagrame**
+
+![image](https://user-images.githubusercontent.com/101035721/168410775-7d0c6384-56ed-4957-b64e-789317acf299.png)
